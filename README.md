@@ -282,6 +282,3 @@ Feel free to extend this tool with additional encryption methods or improvements
 3. Add appropriate documentation
 4. Test with various image types and sizes
 
-## License
-
-This project is provided as-is for educational purposes. Feel free to modify and distribute according to your needs.

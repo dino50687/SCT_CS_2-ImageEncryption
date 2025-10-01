@@ -1,7 +1,4 @@
 # Image Encryption Tool
-SkillCraft Cybersecurity Internship – Task 2
-Author: Cherupalli Mani Karthik 
-Domain: Cybersecurity and BLOCKCHAIN
 
 A simple yet powerful image encryption tool that uses pixel manipulation techniques to encrypt and decrypt images. This tool supports various encryption methods including mathematical operations and pixel swapping algorithms.
 

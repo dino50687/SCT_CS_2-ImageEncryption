@@ -1,0 +1,6 @@
+"""
+Requirements file for the Image Encryption Tool
+"""
+
+Pillow>=9.0.0
+numpy>=1.21.0
